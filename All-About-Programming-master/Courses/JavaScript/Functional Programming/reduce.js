@@ -13,6 +13,7 @@ for (var i = 0; i < orders.length; i++) {
 }
 console.log(totalAmount);
 // /* Result
+
 // 1075
 // */
 /*>>>>>>=============================================<<<<<<*/
