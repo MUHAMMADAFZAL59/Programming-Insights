@@ -1,7 +1,7 @@
 # Everything about programming:
 
 * Courses
-* [Best Packages I found for many projects](https://github.com/EQuimper/All-About-Programming/tree/master/Best%20Packages)
+* [Best Packages I found for many projects](https://github.com/MUHAMMADAFZAL59/Programming-Insights)
 * Articles
 * Tutorials
 * Books

@@ -1,1 +1,0 @@
-- [DataType](datatype.md)
